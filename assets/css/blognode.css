@@ -31,6 +31,10 @@ article {
     text-align: justify;
 }
 
+article img {
+    max-width: 100%;
+}
+
 .bn-loading-text {
 	margin:2rem;
 }
